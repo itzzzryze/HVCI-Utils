@@ -39,3 +39,4 @@ the other features are simple commands , which can all theoretically be done wit
 ## License
 
 HVCI Utils is an open-source project available under the [GPLv3](https://www.gnu.org/licenses/gpl-3.0.html) License.
+honstely im not even sure if i should license any of this at all , since its just ai slop anyways
